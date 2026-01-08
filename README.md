@@ -1,6 +1,6 @@
 ```mermaid
 mindmap
-  root((Safety Standards Comparison))
+  root((Safety Standards Compare))
     ISO_26262
       Focus:::iso[Functional Safety]
       Governs_meaning:::iso[No]
